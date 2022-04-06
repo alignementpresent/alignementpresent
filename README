@@ -1,0 +1,2 @@
+requires the use of the glasgow subgraph solver from (https://github.com/ciaranm/glasgow-subgraph-solver) to use.
+Should be included as a submodule of this repo
